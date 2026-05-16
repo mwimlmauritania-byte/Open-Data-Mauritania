@@ -13,7 +13,7 @@
 
 Most AI systems today perform well only in high-resource languages like English, French,
 or Modern Standard Arabic. **Mauritania's national languages — Pulaar, Soninke, Wolof,
-and Hassaniya Arabic — are severely underrepresented.**
+and Hassaniya — are severely underrepresented.**
 
 This means healthcare AI, automated public services, and language tools simply don't work
 for most Mauritanians. This repository is our open answer: a community hub for collecting,
@@ -109,9 +109,6 @@ cleaning, and publishing NLP datasets so that anyone can build tools that serve 
 |---|---|---|---|
 | **Hassan-IA / حسّانية** | Hassaniya Arabic | Community documenting the Hassaniya dialect — dialect resources, transcriptions, NLP tools | [GitHub](https://github.com/Hassan-IA) |
 | **Galsen AI** | Wolof, Pulaar, Soninke | Senegalese open AI datasets and models | [galsenai.com](https://galsenai.com) |
-| **Hassaniya AI** | Hassaniya Arabic | NLP datasets for Hassaniya Arabic dialect | [GitHub](https://github.com/HassaniyaAI) |
-| **PularAI** | Pulaar / Fulfulde | AI resources for the Pulaar language family | [GitHub](https://github.com/PularAI) |
-| **Masakhane** | 50+ African languages | Pan-African NLP community and research | [masakhane.io](https://www.masakhane.io) |
 
 ### 📖 Soninke Language Resources
 
@@ -123,14 +120,6 @@ The Soninke language has a small but growing set of online resources:
 | **Sooninke** | Soninke language learning and vocabulary | [sooninke.com](https://www.sooninke.com) |
 | **Asawan.org — Section Soninké** | Soninke section of the Asawan cultural platform | [asawan.org](https://www.asawan.org) |
 | **Gallica — Recherche Soninké** | BnF digital library — historical Soninke texts | [gallica.bnf.fr](https://gallica.bnf.fr/Search?adva=1&adv=1&lang=fr&q=sonink%C3%A9) |
-
-### 🏛️ Official Data Sources
-
-| Source | Description | Link |
-|---|---|---|
-| **Open Data Mauritania** | Government open data portal | [data.gov.mr](https://data.gov.mr) |
-| **IMROP** | Mauritanian fisheries & ocean research | [imrop.mr](https://www.imrop.mr) |
-| **ONISPA** | Agricultural and livestock statistics | [onispa.mr](https://www.onispa.mr) |
 
 ---
 
