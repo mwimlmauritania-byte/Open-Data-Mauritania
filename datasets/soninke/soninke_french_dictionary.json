@@ -1,0 +1,2834 @@
+[
+    {
+        "sonike": "A",
+        "farancais": "Il, Elle"
+    },
+    {
+        "sonike": "Abada",
+        "farancais": "Jamais"
+    },
+    {
+        "sonike": "Alahadi",
+        "farancais": "Dimanche (i, nu)"
+    },
+    {
+        "sonike": "Alaxamisa",
+        "farancais": "Jeudi ( a, nu)"
+    },
+    {
+        "sonike": "Alijuma",
+        "farancais": "Vendredi (a , nu)"
+    },
+    {
+        "sonike": "Alikaati",
+        "farancais": "Policier (i , nu)"
+    },
+    {
+        "sonike": "Alikeebu",
+        "farancais": "Etrier (u , nu)"
+    },
+    {
+        "sonike": "Alimaami",
+        "farancais": "Imam, Alimamy (prénom masculin) (i, nu)"
+    },
+    {
+        "sonike": "Alimeeti",
+        "farancais": "Alumette (i , nu)"
+    },
+    {
+        "sonike": "Aliyatiime",
+        "farancais": "Orphelin (i, u)"
+    },
+    {
+        "sonike": "Ala",
+        "farancais": "Allah, Dieu"
+    },
+    {
+        "sonike": "An",
+        "farancais": "Tu, Toi"
+    },
+    {
+        "sonike": "Anmiina",
+        "farancais": "Amen"
+    },
+    {
+        "sonike": "Annebi",
+        "farancais": "Le prophète Mahomet"
+    },
+    {
+        "sonike": "Anniye",
+        "farancais": "souhait (i, u)"
+    },
+    {
+        "sonike": "Araba",
+        "farancais": "Mercredi (a , nu)"
+    },
+    {
+        "sonike": "Arijanna",
+        "farancais": "Paradis"
+    },
+    {
+        "sonike": "Ayiwa !",
+        "farancais": "D’accord !"
+    },
+    {
+        "sonike": "… ba ?",
+        "farancais": "Est ce que … ?"
+    },
+    {
+        "sonike": "Baafe",
+        "farancais": "Porte (e, u)"
+    },
+    {
+        "sonike": "Baane",
+        "farancais": "Un, seul"
+    },
+    {
+        "sonike": "Baano",
+        "farancais": "Tabaski, fête du mouton ou de l’Aïd"
+    },
+    {
+        "sonike": "Baasu",
+        "farancais": "Souhaiter la bienvenue de façon officielle (u, nu)"
+    },
+    {
+        "sonike": "Baawo / Bawoni",
+        "farancais": "Parce que, car"
+    },
+    {
+        "sonike": "Baaye",
+        "farancais": "Tante (soeur du père) (i; inu)"
+    },
+    {
+        "sonike": "Badaane",
+        "farancais": "Variole (an, u)"
+    },
+    {
+        "sonike": "Bagu (Bakka)",
+        "farancais": "Sortir"
+    },
+    {
+        "sonike": "Bakkaane",
+        "farancais": "Margouillat (Lézard) (an, u )"
+    },
+    {
+        "sonike": "Banbu (Banbunu)",
+        "farancais": "Porter sur le dos (enfant), Bercer"
+    },
+    {
+        "sonike": "Banbuxu",
+        "farancais": "Sud"
+    },
+    {
+        "sonike": "Bange (bangene)",
+        "farancais": "Naître, éclater"
+    },
+    {
+        "sonike": "Bangandi (bangandini)",
+        "farancais": "Engendrer, aider à naître ( un animal)"
+    },
+    {
+        "sonike": "Banna",
+        "farancais": "Riche (a, nu)"
+    },
+    {
+        "sonike": "bane",
+        "farancais": "Chez"
+    },
+    {
+        "sonike": "Bantie",
+        "farancais": "Fromager (arbre) (n, u)"
+    },
+    {
+        "sonike": "Bappoore",
+        "farancais": "Capitaine (Poisson) (i, u )"
+    },
+    {
+        "sonike": "Bara (Balla)",
+        "farancais": "Refuser"
+    },
+    {
+        "sonike": "Baraaje",
+        "farancais": "Grâce divine (i,u )"
+    },
+    {
+        "sonike": "Barama",
+        "farancais": "Marmite (a, nu)"
+    },
+    {
+        "sonike": "Barisa",
+        "farancais": "Parce que"
+    },
+    {
+        "sonike": "Bataaxe",
+        "farancais": "Lettre, courrier (i, u )"
+    },
+    {
+        "sonike": "Batu (batta)",
+        "farancais": "Suivre"
+    },
+    {
+        "sonike": "Batte",
+        "farancais": "Trace"
+    },
+    {
+        "sonike": "Baxa",
+        "farancais": "Basin (étoffe) (a, nu)"
+    },
+    {
+        "sonike": "Baxalle",
+        "farancais": "Mulet (i, u)"
+    },
+    {
+        "sonike": "Be",
+        "farancais": "Lequel (pronom relatif) (, nu)"
+    },
+    {
+        "sonike": "Beere",
+        "farancais": "Gonfler au maximun (beerene)"
+    },
+    {
+        "sonike": "Beeta",
+        "farancais": "Beeta : Salut du matin"
+    },
+    {
+        "sonike": "Befe",
+        "farancais": "Couloir-antichambre des maisons de village (i, u)"
+    },
+    {
+        "sonike": "Bendi",
+        "farancais": "Poêle à frire (i, nu)"
+    },
+    {
+        "sonike": "Benne",
+        "farancais": "Corne (n, u)"
+    },
+    {
+        "sonike": "Bera",
+        "farancais": "Place de village (a, o)"
+    },
+    {
+        "sonike": "Bereta",
+        "farancais": "Cotisation (a, nu )"
+    },
+    {
+        "sonike": "Betu",
+        "farancais": "Serrer (betunu)"
+    },
+    {
+        "sonike": "Bexiile",
+        "farancais": "Avare (i, u)"
+    },
+    {
+        "sonike": "Bida",
+        "farancais": "Interdit « Tabou » (a, nu)"
+    },
+    {
+        "sonike": "Bifi",
+        "farancais": "se coucher sur le ventre (bippi)"
+    },
+    {
+        "sonike": "Biida",
+        "farancais": "Boa, serpent légendaire du Wagadou (a, nu)"
+    },
+    {
+        "sonike": "Biifi",
+        "farancais": "Jouet fait avec un bout de calebasse et de la ficelle (i, nu)"
+    },
+    {
+        "sonike": "Biijibaajo",
+        "farancais": "Aurore"
+    },
+    {
+        "sonike": "Bili",
+        "farancais": "Recouvrir un toit de paille (bilini)"
+    },
+    {
+        "sonike": "Bindaane",
+        "farancais": "Servante (n, nu)"
+    },
+    {
+        "sonike": "Binne",
+        "farancais": "Vivres, nourriture (i, u)"
+    },
+    {
+        "sonike": "Bire",
+        "farancais": "Moment , instant (i, nu)"
+    },
+    {
+        "sonike": "Bissimilla",
+        "farancais": "Bienvenue"
+    },
+    {
+        "sonike": "Bite",
+        "farancais": "Obscurité, nuit (a, o)"
+    },
+    {
+        "sonike": "Biyi",
+        "farancais": "Brûler (biyini)"
+    },
+    {
+        "sonike": "Bole",
+        "farancais": "Goitre (i, u)"
+    },
+    {
+        "sonike": "Bone",
+        "farancais": "Malheur"
+    },
+    {
+        "sonike": "Bono",
+        "farancais": "Mourir, pourrir, se gâter (bonno)"
+    },
+    {
+        "sonike": "Bonte",
+        "farancais": "Sauter (en longueur) (bontene)"
+    },
+    {
+        "sonike": "Boore",
+        "farancais": "Se déshabiller (boorene)"
+    },
+    {
+        "sonike": "Booto",
+        "farancais": "Sac (o, nu)"
+    },
+    {
+        "sonike": "Bori",
+        "farancais": "Attacher un chameau (borini)"
+    },
+    {
+        "sonike": "Bosi",
+        "farancais": "Sucer (bocco)"
+    },
+    {
+        "sonike": "Bote",
+        "farancais": "Etre percé, crevé (pneu) (botene)"
+    },
+    {
+        "sonike": "Bucce",
+        "farancais": "Jeune (i, u )"
+    },
+    {
+        "sonike": "Buga",
+        "farancais": "Vanité (a, ..)"
+    },
+    {
+        "sonike": "Buki",
+        "farancais": "Livre , bouquin (i, nu)"
+    },
+    {
+        "sonike": "Bula",
+        "farancais": "Bleu (a, nu)"
+    },
+    {
+        "sonike": "Bulu",
+        "farancais": "Enterrer un mort (bulunu)"
+    },
+    {
+        "sonike": "Buna",
+        "farancais": "Poudre à fusil (a, ..)"
+    },
+    {
+        "sonike": "Bundanne",
+        "farancais": "Arc (n-, u)"
+    },
+    {
+        "sonike": "Bunne",
+        "farancais": "Flèche (i, u)"
+    },
+    {
+        "sonike": "Bunu",
+        "farancais": "Piquer (bunnu)"
+    },
+    {
+        "sonike": "Bununbuna",
+        "farancais": "Guêpe maçonne (a, nu)"
+    },
+    {
+        "sonike": "Bure",
+        "farancais": "Mauvais (i, u)"
+    },
+    {
+        "sonike": "Buru",
+        "farancais": "Trop"
+    },
+    {
+        "sonike": "Burunjaaji",
+        "farancais": "Mal attacher (burunjaajini)"
+    },
+    {
+        "sonike": "Butte",
+        "farancais": "Foie (i, u)"
+    },
+    {
+        "sonike": "Butte",
+        "farancais": "Colère (i, u)"
+    },
+    {
+        "sonike": "Butu",
+        "farancais": "se fâcher (Buttu)"
+    },
+    {
+        "sonike": "Buure",
+        "farancais": "Criquet (i, u)"
+    },
+    {
+        "sonike": "Buusi",
+        "farancais": "Uriner (buusini)"
+    },
+    {
+        "sonike": "Buusu",
+        "farancais": "Reprendre (buusunu)"
+    },
+    {
+        "sonike": "Buusu",
+        "farancais": "Effeuiller, récolter les feuilles (indigo par ex.) (buusunu)"
+    },
+    {
+        "sonike": "Caaku",
+        "farancais": "Sac (u, nu)"
+    },
+    {
+        "sonike": "Caakuto",
+        "farancais": "Geai (o, nu)"
+    },
+    {
+        "sonike": "Cakka",
+        "farancais": "Collier (a, nu)"
+    },
+    {
+        "sonike": "Caxabuccaxabu",
+        "farancais": "Patauger, manger bruyamment (caxabuccaxabunu)"
+    },
+    {
+        "sonike": "Ceero",
+        "farancais": "Perroquet (o, nu)"
+    },
+    {
+        "sonike": "Ciloone",
+        "farancais": "Toutes sortes de petits oiseaux (cillon, u)"
+    },
+    {
+        "sonike": "Da",
+        "farancais": "Prédicatif affirmatif passé"
+    },
+    {
+        "sonike": "Da",
+        "farancais": "postposition : à, pour"
+    },
+    {
+        "sonike": "Daage",
+        "farancais": "Bouche d’un marabout (terme de respect) (, u)"
+    },
+    {
+        "sonike": "Daaru",
+        "farancais": "Hier"
+    },
+    {
+        "sonike": "Daarume",
+        "farancais": "Avant hier"
+    },
+    {
+        "sonike": "Dabari",
+        "farancais": "Faire, Fabriquer (dabarini)"
+    },
+    {
+        "sonike": "Daga",
+        "farancais": "Partir (dagana)"
+    },
+    {
+        "sonike": "Dalla",
+        "farancais": "Durer , rester longtemps (dallana)"
+    },
+    {
+        "sonike": "Danbe",
+        "farancais": "L’histoire , légende (i, u)"
+    },
+    {
+        "sonike": "Danga",
+        "farancais": "Porte monnaie (a, nu)"
+    },
+    {
+        "sonike": "Dangi",
+        "farancais": "Passer (dangini)"
+    },
+    {
+        "sonike": "Daqqu",
+        "farancais": "Soif (u, ..)"
+    },
+    {
+        "sonike": "Dara",
+        "farancais": "Drap (a, nu )"
+    },
+    {
+        "sonike": "Daraja",
+        "farancais": "Renommée, mode (a, nu)"
+    },
+    {
+        "sonike": "Daro",
+        "farancais": "Respecter (darono)"
+    },
+    {
+        "sonike": "Debe",
+        "farancais": "Village (étendue du terroir) (i,u)"
+    },
+    {
+        "sonike": "Debere",
+        "farancais": "Fétiche, idole (i,u)"
+    },
+    {
+        "sonike": "Debigume",
+        "farancais": "Chef de Village (i,u)"
+    },
+    {
+        "sonike": "Deela",
+        "farancais": "Verser (deelana)"
+    },
+    {
+        "sonike": "Deele",
+        "farancais": "Couler (deelene)"
+    },
+    {
+        "sonike": "Deema",
+        "farancais": "Aider (deemana)"
+    },
+    {
+        "sonike": "Deemu",
+        "farancais": "Chimpanzé (u , nu)"
+    },
+    {
+        "sonike": "Deemune",
+        "farancais": "variété d’insecte ; éphémère (n, u)"
+    },
+    {
+        "sonike": "Deene",
+        "farancais": "Nourrisson (a, o)"
+    },
+    {
+        "sonike": "Demu",
+        "farancais": "Avoir l’habitude de (demunu)"
+    },
+    {
+        "sonike": "Deni",
+        "farancais": "Emmener (denne)"
+    },
+    {
+        "sonike": "Deppe",
+        "farancais": "Petit (i, u)"
+    },
+    {
+        "sonike": "Dere",
+        "farancais": "Feuille (i, u)"
+    },
+    {
+        "sonike": "Di",
+        "farancais": "postposition : dans"
+    },
+    {
+        "sonike": "Dibakke",
+        "farancais": "Fils d’un marabout (terme de respect) (i,u)"
+    },
+    {
+        "sonike": "Digaame",
+        "farancais": "Parole (digan , u)"
+    },
+    {
+        "sonike": "Diina",
+        "farancais": "Religion"
+    },
+    {
+        "sonike": "Diinanta",
+        "farancais": "Plus que"
+    },
+    {
+        "sonike": "Dinde",
+        "farancais": "Ficus (arbre) (i, u)"
+    },
+    {
+        "sonike": "Dingira",
+        "farancais": "Lieu, adresse (a, o)"
+    },
+    {
+        "sonike": "Dinka",
+        "farancais": "Très gros (a, o)"
+    },
+    {
+        "sonike": "Dinma",
+        "farancais": "Moment, instant (a, nu)"
+    },
+    {
+        "sonike": "Do",
+        "farancais": "Et"
+    },
+    {
+        "sonike": "Dogotooro",
+        "farancais": "Docteur (o, nu)"
+    },
+    {
+        "sonike": "Dolo",
+        "farancais": "Alcool"
+    },
+    {
+        "sonike": "Dondonne",
+        "farancais": "Variété de tam-tam (n,u)"
+    },
+    {
+        "sonike": "Dooke",
+        "farancais": "Là-bas"
+    },
+    {
+        "sonike": "Doome",
+        "farancais": "Ensemble"
+    },
+    {
+        "sonike": "Doono",
+        "farancais": "Là-bas"
+    },
+    {
+        "sonike": "Doroke",
+        "farancais": "Chemise, boubou (i,o)"
+    },
+    {
+        "sonike": "Doromma",
+        "farancais": "Bague (a, o)"
+    },
+    {
+        "sonike": "Doronme",
+        "farancais": "Doigt (n ;u)"
+    },
+    {
+        "sonike": "Du",
+        "farancais": "Soi-même"
+    },
+    {
+        "sonike": "Dugu",
+        "farancais": "Attendre (dukku)"
+    },
+    {
+        "sonike": "Duguta",
+        "farancais": "Terminer (dugutana)"
+    },
+    {
+        "sonike": "Dulle",
+        "farancais": "Faim, famine (i,u)"
+    },
+    {
+        "sonike": "Duna",
+        "farancais": "Le monde, l’univers"
+    },
+    {
+        "sonike": "Dunbe",
+        "farancais": "Rouge (i,u)"
+    },
+    {
+        "sonike": "Dunde",
+        "farancais": "Ile (i,u)"
+    },
+    {
+        "sonike": "Dundunne",
+        "farancais": "Variété de tam-tam (n ,u)"
+    },
+    {
+        "sonike": "Due",
+        "farancais": "Accepter (duene)"
+    },
+    {
+        "sonike": "Duruxoto",
+        "farancais": "Prendre courage, se débroullier (duruxotono)"
+    },
+    {
+        "sonike": "Duudo",
+        "farancais": "Déjà"
+    },
+    {
+        "sonike": "Duuñe",
+        "farancais": "Pou (i, u)"
+    },
+    {
+        "sonike": "Duuro",
+        "farancais": "Vide (o, u)"
+    },
+    {
+        "sonike": "Duwa",
+        "farancais": "Présenter ses condoléances (duwaa)"
+    },
+    {
+        "sonike": "E",
+        "farancais": "Hé"
+    },
+    {
+        "sonike": "Faaba",
+        "farancais": "Secourir, porter assistance (faabana)"
+    },
+    {
+        "sonike": "Faaba",
+        "farancais": "Père (a, enu)"
+    },
+    {
+        "sonike": "Faaba-tugunne",
+        "farancais": "Oncle, petit frère du père (n , u)"
+    },
+    {
+        "sonike": "Faaba-xoore",
+        "farancais": "Oncle , grand frère du père (a, o)"
+    },
+    {
+        "sonike": "Faabe",
+        "farancais": "Père ( terme de respect)"
+    },
+    {
+        "sonike": "Faajiri",
+        "farancais": "Prière de l’aube, aube (i, nu)"
+    },
+    {
+        "sonike": "Faame",
+        "farancais": "Longue absence"
+    },
+    {
+        "sonike": "Faamu",
+        "farancais": "Comprendre (faamunu)"
+    },
+    {
+        "sonike": "Faare",
+        "farancais": "Message, messager (i, u)"
+    },
+    {
+        "sonike": "Faare",
+        "farancais": "Le prophète Mahomet"
+    },
+    {
+        "sonike": "Faati",
+        "farancais": "Mourir (euphémisme) (faatini)"
+    },
+    {
+        "sonike": "Faayi",
+        "farancais": "Voici, voilà"
+    },
+    {
+        "sonike": "Faccari",
+        "farancais": "Traduire (faccarini)"
+    },
+    {
+        "sonike": "Faga",
+        "farancais": "Etre remlpi, plein, rassasié (fakka)"
+    },
+    {
+        "sonike": "Falanteere",
+        "farancais": "Fenêtre (i, u)"
+    },
+    {
+        "sonike": "Falla",
+        "farancais": "Conduire la fiancée à son mariage (fallana)"
+    },
+    {
+        "sonike": "Falle",
+        "farancais": "Après, derrière"
+    },
+    {
+        "sonike": "Faélle",
+        "farancais": "Dos (i,u)"
+    },
+    {
+        "sonike": "Fana",
+        "farancais": "Premier (a,nu)"
+    },
+    {
+        "sonike": "Fane",
+        "farancais": "Tôt"
+    },
+    {
+        "sonike": "Fanke",
+        "farancais": "Vent (i,u)"
+    },
+    {
+        "sonike": "Fanne",
+        "farancais": "Sillon, Fleuve, rivière permanente (fan,u)"
+    },
+    {
+        "sonike": "Fallenme",
+        "farancais": "La Falémé : (le petit fleuve)"
+    },
+    {
+        "sonike": "Fanxoore",
+        "farancais": "Le sénégal: (le grand fleuve)"
+    },
+    {
+        "sonike": "Fantanne",
+        "farancais": "Crapaud (n, u)"
+    },
+    {
+        "sonike": "Fanta-kurufe",
+        "farancais": "Champignon (i, u)"
+    },
+    {
+        "sonike": "Faranfare",
+        "farancais": "Beau,belle (a , o)"
+    },
+    {
+        "sonike": "Fare",
+        "farancais": "Ane (i, u)"
+    },
+    {
+        "sonike": "Fata",
+        "farancais": "Séparer, sevrer, récolter (le sougho tardif) ( fatana)"
+    },
+    {
+        "sonike": "Fatanfanso",
+        "farancais": "Lutin (fendan, u)"
+    },
+    {
+        "sonike": "Fene",
+        "farancais": "Crème de lait"
+    },
+    {
+        "sonike": "Fengeñe",
+        "farancais": "Fesse (n, u)"
+    },
+    {
+        "sonike": "Fenta",
+        "farancais": "Donner une claque (fentana)"
+    },
+    {
+        "sonike": "Ferego",
+        "farancais": "S’exiler, émigrer (feregono)"
+    },
+    {
+        "sonike": "Feri",
+        "farancais": "Etre fier, orgueilleux (ferini)"
+    },
+    {
+        "sonike": "Feti",
+        "farancais": "Prédicatif nominal négatif (de la relation)"
+    },
+    {
+        "sonike": "Fi",
+        "farancais": "Problème (fi, fiinu)"
+    },
+    {
+        "sonike": "Ficce",
+        "farancais": "Vomir (ficcene)"
+    },
+    {
+        "sonike": "Firinfiraane",
+        "farancais": "Hirondelle (n, u)"
+    },
+    {
+        "sonike": "Filla",
+        "farancais": "Second, deuxième"
+    },
+    {
+        "sonike": "Filla",
+        "farancais": "Doubler, dédoubler (fillana)"
+    },
+    {
+        "sonike": "Fillo",
+        "farancais": "Deux"
+    },
+    {
+        "sonike": "Finki",
+        "farancais": "Devenir aveugle (finkini)"
+    },
+    {
+        "sonike": "Finkinte",
+        "farancais": "Aveugle (a,o)"
+    },
+    {
+        "sonike": "Firige",
+        "farancais": "Autruche (i,u)"
+    },
+    {
+        "sonike": "Firinfilaane",
+        "farancais": "Hirondelle (firifilan ; u)"
+    },
+    {
+        "sonike": "Firixindi",
+        "farancais": "Nouer (fixirindini)"
+    },
+    {
+        "sonike": "Fitolle",
+        "farancais": "Torche, Lampe (i,u)"
+    },
+    {
+        "sonike": "Fitta",
+        "farancais": "Jeter (fittana)"
+    },
+    {
+        "sonike": "Fo",
+        "farancais": "Chose (fo, foonu)"
+    },
+    {
+        "sonike": "Fonde",
+        "farancais": "Bouillie avec grumeaux"
+    },
+    {
+        "sonike": "Fonmuume",
+        "farancais": "Animal (i, u)"
+    },
+    {
+        "sonike": "Fonne",
+        "farancais": "Un peu"
+    },
+    {
+        "sonike": "Fonsoppe",
+        "farancais": "Point de côté (i,u)"
+    },
+    {
+        "sonike": "Foodiye",
+        "farancais": "Lettré coranique, Fodié prénom masculin (i,u)"
+    },
+    {
+        "sonike": "Foofo",
+        "farancais": "Rien"
+    },
+    {
+        "sonike": "Fore",
+        "farancais": "Sang (i,u)"
+    },
+    {
+        "sonike": "Foronto",
+        "farancais": "Piment (o, nu)"
+    },
+    {
+        "sonike": "Foto",
+        "farancais": "Photo (o, nu)"
+    },
+    {
+        "sonike": "Fotondi",
+        "farancais": "Faire des Photos (Fotondini)"
+    },
+    {
+        "sonike": "Foxu",
+        "farancais": "Aboyer (foxunu)"
+    },
+    {
+        "sonike": "Fule",
+        "farancais": "Flûte (i,u)"
+    },
+    {
+        "sonike": "Fulle",
+        "farancais": "Peul (i,u)"
+    },
+    {
+        "sonike": "Fulu-tinma",
+        "farancais": "Flûtiste (a, aano)"
+    },
+    {
+        "sonike": "Fune",
+        "farancais": "Singe (u,u)"
+    },
+    {
+        "sonike": "Fune",
+        "farancais": "Jumeau (u,u)"
+    },
+    {
+        "sonike": "Funse",
+        "farancais": "Grain , bouton (i,u)"
+    },
+    {
+        "sonike": "Funu",
+        "farancais": "Surpasser (fununu)"
+    },
+    {
+        "sonike": "Fure",
+        "farancais": "Cadavre (u,u)"
+    },
+    {
+        "sonike": "Furun-gallu",
+        "farancais": "Cimetière"
+    },
+    {
+        "sonike": "Furutu",
+        "farancais": "Poumons (u, nu)"
+    },
+    {
+        "sonike": "Futo",
+        "farancais": "Couscous (u,u)"
+    },
+    {
+        "sonike": "Futte",
+        "farancais": "Sueur (i,u)"
+    },
+    {
+        "sonike": "Futuro",
+        "farancais": "Crépuscule, prière du crépuscule (u,u)"
+    },
+    {
+        "sonike": "Fuufe",
+        "farancais": "Respirer (fuufene)"
+    },
+    {
+        "sonike": "Fuuge",
+        "farancais": "Fleur (i,u)"
+    },
+    {
+        "sonike": "Fuule",
+        "farancais": "Siffler (fuulene)"
+    },
+    {
+        "sonike": "Fuune",
+        "farancais": "Albinos (u,u)"
+    },
+    {
+        "sonike": "Fuura",
+        "farancais": "Carpe (Poisson) (a,o)"
+    },
+    {
+        "sonike": "Fuure",
+        "farancais": "Pirogue, Véhicule (i,u)"
+    },
+    {
+        "sonike": "Fuute",
+        "farancais": "Souffler (Fuutene)"
+    },
+    {
+        "sonike": "Ga",
+        "farancais": "Prédicatif des propositions temporelles et des potentielles"
+    },
+    {
+        "sonike": "Gaada",
+        "farancais": "Servante (a, nu)"
+    },
+    {
+        "sonike": "Gaada",
+        "farancais": "Commencer, vendre, marchander (gaagana)"
+    },
+    {
+        "sonike": "Garra",
+        "farancais": "Mensonge ( a, o)"
+    },
+    {
+        "sonike": "Gabe",
+        "farancais": "Beaucoup, nombreux (a,o)"
+    },
+    {
+        "sonike": "Gacce",
+        "farancais": "Honte (i,u)"
+    },
+    {
+        "sonike": "Gaja",
+        "farancais": "Rat (a,o)"
+    },
+    {
+        "sonike": "Gaja",
+        "farancais": "Lutter (gajaa)"
+    },
+    {
+        "sonike": "Gajanne",
+        "farancais": "Lutte, Bagarre (gajan, u)"
+    },
+    {
+        "sonike": "Galle",
+        "farancais": "Enclos pour le bétail (i,u)"
+    },
+    {
+        "sonike": "Gamu",
+        "farancais": "devenir joli (gamunu )"
+    },
+    {
+        "sonike": "Gan",
+        "farancais": "Prédicatif des irréelles"
+    },
+    {
+        "sonike": "Ganbare",
+        "farancais": "Guitare traditionnelle (i,u)"
+    },
+    {
+        "sonike": "Ganma",
+        "farancais": "Coq (a,o)"
+    },
+    {
+        "sonike": "Ganni",
+        "farancais": "Autrefois"
+    },
+    {
+        "sonike": "Gara",
+        "farancais": "Cordonnier (a, ..)"
+    },
+    {
+        "sonike": "Gasere",
+        "farancais": "Traditionniste (caste proche des griots) (i,u)"
+    },
+    {
+        "sonike": "Gawulo",
+        "farancais": "Sorte de griot d’origine peule (o, nu)"
+    },
+    {
+        "sonike": "Gede",
+        "farancais": "Puits (i,u)"
+    },
+    {
+        "sonike": "Geeji",
+        "farancais": "Mer, océan (i, nu)"
+    },
+    {
+        "sonike": "Geesu",
+        "farancais": "Conduire quelqu’un (un aveugle par ex.) (geesunu)"
+    },
+    {
+        "sonike": "Gelli",
+        "farancais": "Depuis"
+    },
+    {
+        "sonike": "Gemu",
+        "farancais": "Se rencontrer, égaler (calcul) (genme)"
+    },
+    {
+        "sonike": "Gida",
+        "farancais": "Grand frère ou grande sur (terme de respect) (a, anu)"
+    },
+    {
+        "sonike": "Gide",
+        "farancais": "Rocher, colline, montagne (i, u)"
+    },
+    {
+        "sonike": "Gijinme",
+        "farancais": "Poitrine (n,u)"
+    },
+    {
+        "sonike": "Gille",
+        "farancais": "Grand , haut , long (i,u)"
+    },
+    {
+        "sonike": "Ginge",
+        "farancais": "Limite , frontière (i,u)"
+    },
+    {
+        "sonike": "Giri",
+        "farancais": "se lever (gilli)"
+    },
+    {
+        "sonike": "Gode",
+        "farancais": "Anneau (a,o)"
+    },
+    {
+        "sonike": "Gode",
+        "farancais": "Unité monétaire (5 franc CFA) (o,o)"
+    },
+    {
+        "sonike": "Golle",
+        "farancais": "Travail (i,u)"
+    },
+    {
+        "sonike": "Golle",
+        "farancais": "Mortier (pour piler) (i,u)"
+    },
+    {
+        "sonike": "Gondome",
+        "farancais": "Pilon (n,u)"
+    },
+    {
+        "sonike": "Gooli",
+        "farancais": "Défricher (goolini)"
+    },
+    {
+        "sonike": "Goppe",
+        "farancais": "Rapace, épervier (i,u)"
+    },
+    {
+        "sonike": "Gori",
+        "farancais": "Pêcher à la ligne (gorini)"
+    },
+    {
+        "sonike": "Goro",
+        "farancais": "Piler (gorono)"
+    },
+    {
+        "sonike": "Goro",
+        "farancais": "Piler (transitif) (gollo)"
+    },
+    {
+        "sonike": "Goro",
+        "farancais": "Noix de cola (o,nu)"
+    },
+    {
+        "sonike": "Guja",
+        "farancais": "Tapis de prière, peau servant de trône royal (a,nu)"
+    },
+    {
+        "sonike": "Gulanne",
+        "farancais": "Cloche (n,u)"
+    },
+    {
+        "sonike": "Gundo",
+        "farancais": "Taureau (o,nu)"
+    },
+    {
+        "sonike": "Gundo",
+        "farancais": "Secret (o,nu)"
+    },
+    {
+        "sonike": "Gunne",
+        "farancais": "Campagne, Brousse (n,u)"
+    },
+    {
+        "sonike": "Gurugutte",
+        "farancais": "Hibou (i,u)"
+    },
+    {
+        "sonike": "Guube",
+        "farancais": "Dévier, tourner, virer (guubene)"
+    },
+    {
+        "sonike": "Guuji",
+        "farancais": "! verser à flots (guujini)"
+    },
+    {
+        "sonike": "Guwaane",
+        "farancais": "Rat palmiste dit  » écureuil « (n,u)"
+    },
+    {
+        "sonike": "Haawa",
+        "farancais": "Eve"
+    },
+    {
+        "sonike": "Haccitaare",
+        "farancais": "Petit déjeuner (i,u)"
+    },
+    {
+        "sonike": "Hadama",
+        "farancais": "Adan"
+    },
+    {
+        "sonike": "Halaki",
+        "farancais": "Détruire par intervention divine (halakini)"
+    },
+    {
+        "sonike": "Hanmi",
+        "farancais": "Souci (i, nu)"
+    },
+    {
+        "sonike": "Hanniye",
+        "farancais": "Souhait (i,u)"
+    },
+    {
+        "sonike": "Haqqe",
+        "farancais": "Nombre, quantité (i,u)"
+    },
+    {
+        "sonike": "Haqqe",
+        "farancais": "Ressentiment, querelle (i,u)"
+    },
+    {
+        "sonike": "Haqqile",
+        "farancais": "Intelligence, conscience (i,u)"
+    },
+    {
+        "sonike": "Haraame",
+        "farancais": "Péché, Interdit religieux (a,o)"
+    },
+    {
+        "sonike": "Harafe",
+        "farancais": "Lettre de l’alphabet (i,u)"
+    },
+    {
+        "sonike": "Harafi-yugo",
+        "farancais": "Consonne (u,u)"
+    },
+    {
+        "sonike": "Harafi-yaxare",
+        "farancais": "Voyelle (i,u)"
+    },
+    {
+        "sonike": "Hari",
+        "farancais": "Même pas"
+    },
+    {
+        "sonike": "Hariire",
+        "farancais": "Soie (i,u)"
+    },
+    {
+        "sonike": "Hattaye",
+        "farancais": "Thé vert"
+    },
+    {
+        "sonike": "Hiiji",
+        "farancais": "Effectuer le pèlerinage de la mecque (hijjini)"
+    },
+    {
+        "sonike": "Hijibe",
+        "farancais": "Chapitre (i,u)"
+    },
+    {
+        "sonike": "Hoore",
+        "farancais": "Noble (a,o)"
+    },
+    {
+        "sonike": "I",
+        "farancais": "Ils, elles"
+    },
+    {
+        "sonike": "I",
+        "farancais": "Soi (réfléchi de la troisième personne du singulier)"
+    },
+    {
+        "sonike": "In",
+        "farancais": "Moi (réfléchi de a première personne du singulier )"
+    },
+    {
+        "sonike": "Iyo",
+        "farancais": "Oui"
+    },
+    {
+        "sonike": "Jaabe",
+        "farancais": "Parole d’un marabout (terme de respect) (i,u)"
+    },
+    {
+        "sonike": "Jaabi",
+        "farancais": "Répondre (jaabini)"
+    },
+    {
+        "sonike": "Jaara",
+        "farancais": "Soigner (jaarana)"
+    },
+    {
+        "sonike": "Jaaranda",
+        "farancais": "Docteur, guérisseur (a , aano)"
+    },
+    {
+        "sonike": "Jaarabi",
+        "farancais": "(jaarabini)"
+    },
+    {
+        "sonike": "Jaare",
+        "farancais": "Griot (i,u)"
+    },
+    {
+        "sonike": "Jaate",
+        "farancais": "Calcul"
+    },
+    {
+        "sonike": "Jaatigi",
+        "farancais": "Hôte, propriétaire (i,nu)"
+    },
+    {
+        "sonike": "Jabare",
+        "farancais": "Chaleur (i,u)"
+    },
+    {
+        "sonike": "Jabe",
+        "farancais": "Henné"
+    },
+    {
+        "sonike": "Jaga",
+        "farancais": "Déterrer, dévaster un jardin (jagana)"
+    },
+    {
+        "sonike": "Jakka",
+        "farancais": "Charognard (a,nu)"
+    },
+    {
+        "sonike": "Janba",
+        "farancais": "Trahir (janbana)"
+    },
+    {
+        "sonike": "Janbangine",
+        "farancais": "Pipe (i,u)"
+    },
+    {
+        "sonike": "Janmu",
+        "farancais": "Nom de famille (u,nu)"
+    },
+    {
+        "sonike": "Jare",
+        "farancais": "Canine, croc, crochet de serpent (i,u)"
+    },
+    {
+        "sonike": "Jarinte",
+        "farancais": "Lion (a,o)"
+    },
+    {
+        "sonike": "Jaxatane",
+        "farancais": "Gombo (n,o)"
+    },
+    {
+        "sonike": "Jaxe",
+        "farancais": "Ovin, mouton (a,o)"
+    },
+    {
+        "sonike": "Jeeniye",
+        "farancais": "Adultère (i,u)"
+    },
+    {
+        "sonike": "Jeere",
+        "farancais": "Voile de mariée (i,u)"
+    },
+    {
+        "sonike": "Jenjerin-xulle",
+        "farancais": "Pique-boeuf (oiseau) (i,u)"
+    },
+    {
+        "sonike": "Jewo",
+        "farancais": "Se dépêcher, faire vite (jewono)"
+    },
+    {
+        "sonike": "Ji",
+        "farancais": "Eau, tout liquide en général (i- jiinu)"
+    },
+    {
+        "sonike": "Jiiba",
+        "farancais": "Poche (a,nu)"
+    },
+    {
+        "sonike": "Jigijappe",
+        "farancais": "Bégayer (jinmi)"
+    },
+    {
+        "sonike": "Jimi",
+        "farancais": "Se pencher (jinmi)"
+    },
+    {
+        "sonike": "Jinme",
+        "farancais": "Oiseau échassier (n,u)"
+    },
+    {
+        "sonike": "Jin-xulle",
+        "farancais": "Cigogne (i,u)"
+    },
+    {
+        "sonike": "Jonge",
+        "farancais": "Toit (i,u)"
+    },
+    {
+        "sonike": "Jonke",
+        "farancais": "Prix (o,nu)"
+    },
+    {
+        "sonike": "Jonu",
+        "farancais": "La première culture (u,nu)"
+    },
+    {
+        "sonike": "Jonnu",
+        "farancais": "Pacte de sang (u,nu)"
+    },
+    {
+        "sonike": "Joofe",
+        "farancais": "Arriver (joofene)"
+    },
+    {
+        "sonike": "Joogiye",
+        "farancais": "Blessure (i,u)"
+    },
+    {
+        "sonike": "Joota",
+        "farancais": "Du même âge, contemporain (a,o)"
+    },
+    {
+        "sonike": "Jooxe",
+        "farancais": "Les toilettes, WC (i,u)"
+    },
+    {
+        "sonike": "Joppa",
+        "farancais": "Commencer quelque chose (joppana)"
+    },
+    {
+        "sonike": "Joppe",
+        "farancais": "Commencer (joppene)"
+    },
+    {
+        "sonike": "Joxu",
+        "farancais": "Verser (joqqo)"
+    },
+    {
+        "sonike": "Jula",
+        "farancais": "commerçant, colporteur (a,nu)"
+    },
+    {
+        "sonike": "Juma",
+        "farancais": "Grande mosquée du vendredi (a,nu)"
+    },
+    {
+        "sonike": "Juppe",
+        "farancais": "Creux, profond (i,u)"
+    },
+    {
+        "sonike": "Jura",
+        "farancais": "Farine (a, )"
+    },
+    {
+        "sonike": "Juura",
+        "farancais": "Prier un saint, rechercher son intercession (juurana)"
+    },
+    {
+        "sonike": "Ka",
+        "farancais": "Maison, concession de famille étendue (a, kaanu)"
+    },
+    {
+        "sonike": "Ka",
+        "farancais": "Appellation de l’oncle, abréviation de Kaawu"
+    },
+    {
+        "sonike": "Ka",
+        "farancais": "Injurer (Kana)"
+    },
+    {
+        "sonike": "Kaaduuro",
+        "farancais": "Zéro"
+    },
+    {
+        "sonike": "Kaafa",
+        "farancais": "Sabre (a,nu)"
+    },
+    {
+        "sonike": "Kaafiri",
+        "farancais": "Impie (i,nu)"
+    },
+    {
+        "sonike": "Kaane",
+        "farancais": "Devant, avant"
+    },
+    {
+        "sonike": "Kaara",
+        "farancais": "Côté (a,o)"
+    },
+    {
+        "sonike": "Kaara",
+        "farancais": "Chez"
+    },
+    {
+        "sonike": "Kaawa",
+        "farancais": "sécher (kaawana)"
+    },
+    {
+        "sonike": "Kaayiti",
+        "farancais": "Papier (i,nu)"
+    },
+    {
+        "sonike": "Kaba",
+        "farancais": "Interdire (Kabana)"
+    },
+    {
+        "sonike": "Kabu",
+        "farancais": "9"
+    },
+    {
+        "sonike": "Kacce",
+        "farancais": "Corde (i,u)"
+    },
+    {
+        "sonike": "Kafo",
+        "farancais": "Association (o,nu )"
+    },
+    {
+        "sonike": "Kafu",
+        "farancais": "Ajouter, additionner (Kappa) r"
+    },
+    {
+        "sonike": "Kala",
+        "farancais": "Mode"
+    },
+    {
+        "sonike": "Kalle",
+        "farancais": "La mort"
+    },
+    {
+        "sonike": "Kallengora",
+        "farancais": "Cousin, parent à plaisanterie (a,o)"
+    },
+    {
+        "sonike": "Kallu",
+        "farancais": "Beau-parent ou gendre (u,nu)"
+    },
+    {
+        "sonike": "Kama",
+        "farancais": "Patron, maître (a,nu)"
+    },
+    {
+        "sonike": "Kame",
+        "farancais": "100"
+    },
+    {
+        "sonike": "Kan ?",
+        "farancais": "Quel ?"
+    },
+    {
+        "sonike": "Kanbe",
+        "farancais": "Dent (i,u)"
+    },
+    {
+        "sonike": "Kanbu",
+        "farancais": "Croquer (kanbunu)"
+    },
+    {
+        "sonike": "Kande",
+        "farancais": "Panier (a,o)"
+    },
+    {
+        "sonike": "Kanjaane",
+        "farancais": "Lapin (Kanjan , u)"
+    },
+    {
+        "sonike": "Kanme",
+        "farancais": "Pluie (Kan, u)"
+    },
+    {
+        "sonike": "Kanmu",
+        "farancais": "En haut"
+    },
+    {
+        "sonike": "Kanne",
+        "farancais": "Or (Kan,u)"
+    },
+    {
+        "sonike": "Kanpe",
+        "farancais": "Aile (a,o)"
+    },
+    {
+        "sonike": "Kany",
+        "farancais": "Avoir peur (Kanna)"
+    },
+    {
+        "sonike": "Kappallenma",
+        "farancais": "Compagnon (a,o)"
+    },
+    {
+        "sonike": "Kara",
+        "farancais": "Mourir (Kalla)"
+    },
+    {
+        "sonike": "Karago",
+        "farancais": "5"
+    },
+    {
+        "sonike": "Karakataane",
+        "farancais": "Rhinocéros (Karakatan, u)"
+    },
+    {
+        "sonike": "Karankare",
+        "farancais": "Jambe (a,o)"
+    },
+    {
+        "sonike": "Kare",
+        "farancais": "Traverser (Karene)"
+    },
+    {
+        "sonike": "Kari",
+        "farancais": "Tuer Kari (Karini) : Tuer"
+    },
+    {
+        "sonike": "Kasappe",
+        "farancais": "Epais, costaud, énorme (i,u)"
+    },
+    {
+        "sonike": "Katu",
+        "farancais": "Frapper (katta)"
+    },
+    {
+        "sonike": "Katu",
+        "farancais": "Réussir (katta )"
+    },
+    {
+        "sonike": "Ke",
+        "farancais": "Celui-ci, ce, cette ( ..,Ku)"
+    },
+    {
+        "sonike": "Ken",
+        "farancais": "Celui-là, ce, cette, (, Kun)"
+    },
+    {
+        "sonike": "Kengele",
+        "farancais": "Pintade (i,u)"
+    },
+    {
+        "sonike": "Keti ?",
+        "farancais": "Est ce que ?"
+    },
+    {
+        "sonike": "Kiide",
+        "farancais": "Baobab (i,u)"
+    },
+    {
+        "sonike": "Kiilu",
+        "farancais": "Esprit (u, )"
+    },
+    {
+        "sonike": "Kiina",
+        "farancais": "Mari (a,emu)"
+    },
+    {
+        "sonike": "Kiine",
+        "farancais": "Mari (terme de respect)"
+    },
+    {
+        "sonike": "Kiiti",
+        "farancais": "Juger (kiitini)"
+    },
+    {
+        "sonike": "Kille",
+        "farancais": "Chemin (i,u)"
+    },
+    {
+        "sonike": "Kine",
+        "farancais": "Crocodile (i,u)"
+    },
+    {
+        "sonike": "Kinge",
+        "farancais": "Branche (i,u)"
+    },
+    {
+        "sonike": "Kini",
+        "farancais": "Donner (Kinni)"
+    },
+    {
+        "sonike": "Kinnu",
+        "farancais": "Foyer (u,nu)"
+    },
+    {
+        "sonike": "Kiñe",
+        "farancais": "Arriver (kinene)"
+    },
+    {
+        "sonike": "Kira",
+        "farancais": "Passer la journée (Kirana)"
+    },
+    {
+        "sonike": "Kisima",
+        "farancais": "Grand Père (a,nu)"
+    },
+    {
+        "sonike": "Kisimare",
+        "farancais": "Petit-fils ou petite-fille (a,o)"
+    },
+    {
+        "sonike": "Kita",
+        "farancais": "Obtenir (kitta)"
+    },
+    {
+        "sonike": "Kitaabe",
+        "farancais": "Livre (i,u)"
+    },
+    {
+        "sonike": "Kitte",
+        "farancais": "Bras + main (i,u)"
+    },
+    {
+        "sonike": "Kiye",
+        "farancais": "Soleil (i,u)"
+    },
+    {
+        "sonike": "Kiye",
+        "farancais": "Pastèque (i,u)"
+    },
+    {
+        "sonike": "Ko ?",
+        "farancais": "Qui ?"
+    },
+    {
+        "sonike": "Ko",
+        "farancais": "Dire (Koo)"
+    },
+    {
+        "sonike": "Kobi",
+        "farancais": "Beau-frère : époux de la soeur, Belle soeur : femme du frère (impliquant un rapport de plaisanterie) (i,nu)"
+    },
+    {
+        "sonike": "Kocce",
+        "farancais": "Caillou (i,u)"
+    },
+    {
+        "sonike": "Kome",
+        "farancais": "Captif, esclave (a,o)"
+    },
+    {
+        "sonike": "Konbe",
+        "farancais": "Sein, mamelle (a,o)"
+    },
+    {
+        "sonike": "Konko",
+        "farancais": "Frapper (à une porte par ex.) (Konkono)"
+    },
+    {
+        "sonike": "Konpe",
+        "farancais": "Chambre, bâtiment (a, o)"
+    },
+    {
+        "sonike": "Konto",
+        "farancais": "Manquer (kontono)"
+    },
+    {
+        "sonike": "Konimoxo",
+        "farancais": "Prononciation (o,nu)"
+    },
+    {
+        "sonike": "Koota",
+        "farancais": "Jour, date (a,o)"
+    },
+    {
+        "sonike": "Kora",
+        "farancais": "Hangar à palabre (a, o)"
+    },
+    {
+        "sonike": "Kore",
+        "farancais": "Ménage , Cellule familiale (i,u)"
+    },
+    {
+        "sonike": "Kori",
+        "farancais": "Echouer, manquer (Koriri)"
+    },
+    {
+        "sonike": "Koroosi",
+        "farancais": "Surveiller, faire attention (Koroosini)"
+    },
+    {
+        "sonike": "Kotolle",
+        "farancais": "Coton (i,u)"
+    },
+    {
+        "sonike": "Kuddu",
+        "farancais": "Cuiller à métal (u,nu)"
+    },
+    {
+        "sonike": "Kuddullenme",
+        "farancais": "Petite cuiller à métal (n, u)"
+    },
+    {
+        "sonike": "Kufune",
+        "farancais": "Bonnet, chapeau, coiffure (n,u)"
+    },
+    {
+        "sonike": "Kuma",
+        "farancais": "Flamme ( a, o)"
+    },
+    {
+        "sonike": "Kumi",
+        "farancais": "S’allumer (Kumini)"
+    },
+    {
+        "sonike": "Kumu",
+        "farancais": "Allumer (kunmu )"
+    },
+    {
+        "sonike": "Kundu",
+        "farancais": "Ainsi"
+    },
+    {
+        "sonike": "Kunke",
+        "farancais": "Epaule (a,o)"
+    },
+    {
+        "sonike": "Kunne",
+        "farancais": "Trou, ravin, crevasse (i,u)"
+    },
+    {
+        "sonike": "Kunto",
+        "farancais": "Clitoris (o,nu)"
+    },
+    {
+        "sonike": "Kure",
+        "farancais": "Guerre (u,u)"
+    },
+    {
+        "sonike": "Kufure",
+        "farancais": "Grand chapeau de paille (i,u)"
+    },
+    {
+        "sonike": "Kuttu",
+        "farancais": "Le reste, les autres"
+    },
+    {
+        "sonike": "Kutu",
+        "farancais": "Couper (Kutunu)"
+    },
+    {
+        "sonike": "Kuume",
+        "farancais": "Echassier : marabout (?) (i,u)"
+    },
+    {
+        "sonike": "Kuuru",
+        "farancais": "Se taire (Kuurunu)"
+    },
+    {
+        "sonike": "Kuuse",
+        "farancais": "Estomac ( i,u)"
+    },
+    {
+        "sonike": "Kuuto",
+        "farancais": "Varan (u,u)"
+    },
+    {
+        "sonike": "Kuyi",
+        "farancais": "Offrir (Kuyini)"
+    },
+    {
+        "sonike": "Kuyi",
+        "farancais": "Rêver, songer (Kuyini)"
+    },
+    {
+        "sonike": "Laada",
+        "farancais": "Coutume (a, nu)"
+    },
+    {
+        "sonike": "Laate",
+        "farancais": "Eloigné (i,u)"
+    },
+    {
+        "sonike": "Laato",
+        "farancais": "S’éloigner (laatono)"
+    },
+    {
+        "sonike": "Laayidu",
+        "farancais": "Promesse, pacte (u,nu)"
+    },
+    {
+        "sonike": "Labante",
+        "farancais": "Propre, net (a,o)"
+    },
+    {
+        "sonike": "Labo",
+        "farancais": "Couteau (o,nu)"
+    },
+    {
+        "sonike": "Lagare",
+        "farancais": "Dernier, benjamin (i,u)"
+    },
+    {
+        "sonike": "Lalle",
+        "farancais": "Canari, jarre (i,u)"
+    },
+    {
+        "sonike": "Lamaane",
+        "farancais": "Petit (a, u)"
+    },
+    {
+        "sonike": "Laxanji",
+        "farancais": "Salive (i,nu)"
+    },
+    {
+        "sonike": "Laxasara",
+        "farancais": "Prière de 16 heures environ (a, nu)"
+    },
+    {
+        "sonike": "Lebi",
+        "farancais": "Bégayer (lebini)"
+    },
+    {
+        "sonike": "Leelaane",
+        "farancais": "Oiseau au plumage noir avec des reflets bleu (n,u)"
+    },
+    {
+        "sonike": "Leele",
+        "farancais": "Tortue d’eau (a,o)"
+    },
+    {
+        "sonike": "Leele",
+        "farancais": "Etre en retard, traîner, lambiner (leelene)"
+    },
+    {
+        "sonike": "Lekolu",
+        "farancais": "Ecole (u,nu)"
+    },
+    {
+        "sonike": "Lella",
+        "farancais": "Salutation de l’après-midi"
+    },
+    {
+        "sonike": "Lelle",
+        "farancais": "L’Après-midi (i,u)"
+    },
+    {
+        "sonike": "Lemine",
+        "farancais": "Enfant (par opposition aux adultes) (a, lemunu)"
+    },
+    {
+        "sonike": "Lenki",
+        "farancais": "Aujourd’hui"
+    },
+    {
+        "sonike": "Leppitaane",
+        "farancais": "Hôpital (leppitan, u)"
+    },
+    {
+        "sonike": "Li",
+        "farancais": "Impératif de  » Ri  » viens !"
+    },
+    {
+        "sonike": "Lifi",
+        "farancais": "Coudre quelque chose (transitif) (lippi)"
+    },
+    {
+        "sonike": "Likke",
+        "farancais": "Charge, fardeau (,u)"
+    },
+    {
+        "sonike": "Lifi",
+        "farancais": "Coudre, faire de la couture (intransitif) (lifini)"
+    },
+    {
+        "sonike": "Likke",
+        "farancais": "Charge, fardeau (i,u)"
+    },
+    {
+        "sonike": "Line",
+        "farancais": "Bon au goût, doux, sucré (i,u)"
+    },
+    {
+        "sonike": "Lippe",
+        "farancais": "Couture (i,u)"
+    },
+    {
+        "sonike": "Lo",
+        "farancais": "Impératif de  » Ro  » ; entre !"
+    },
+    {
+        "sonike": "Lori",
+        "farancais": "Repiquer (Lorini)"
+    },
+    {
+        "sonike": "Lungunte",
+        "farancais": "Sourd (a,o)"
+    },
+    {
+        "sonike": "Luwaase",
+        "farancais": "Loyer (i,u)"
+    },
+    {
+        "sonike": "Ma",
+        "farancais": "Prédicatif du parfait négatif des verbes intransitifs"
+    },
+    {
+        "sonike": "Ma",
+        "farancais": "Jusqu’à, jusqu’à ce que"
+    },
+    {
+        "sonike": "Ma",
+        "farancais": "Ou"
+    },
+    {
+        "sonike": "Ma",
+        "farancais": "Mère (a, mamu)"
+    },
+    {
+        "sonike": "Mamma",
+        "farancais": "Grand-mère (a, nu)"
+    },
+    {
+        "sonike": "Maama",
+        "farancais": "Remercier (maamana)"
+    },
+    {
+        "sonike": "Maana",
+        "farancais": "Cause, sens, signification (a, nu)"
+    },
+    {
+        "sonike": "Maaño",
+        "farancais": "Jeune marié(e) (u, maanunu)"
+    },
+    {
+        "sonike": "Maaro",
+        "farancais": "Riz (u,u)"
+    },
+    {
+        "sonike": "Maharaba",
+        "farancais": "Réponse des bommes à une salutation"
+    },
+    {
+        "sonike": "Makka",
+        "farancais": "Maïs (a,nu)"
+    },
+    {
+        "sonike": "Makka",
+        "farancais": "La mecque"
+    },
+    {
+        "sonike": "Malacce",
+        "farancais": "Acide (adjectif) (i,u)"
+    },
+    {
+        "sonike": "Malla",
+        "farancais": "Serpent (a,o)"
+    },
+    {
+        "sonike": "Manankunme",
+        "farancais": "Fonds de commerce (n,u)"
+    },
+    {
+        "sonike": "Mande",
+        "farancais": "Se saouler (mandene)"
+    },
+    {
+        "sonike": "Mange",
+        "farancais": "Aristocrate guerrier et juriste traditionnel (a,o)"
+    },
+    {
+        "sonike": "Manjare",
+        "farancais": "Cauri (i,u)"
+    },
+    {
+        "sonike": "Manne ?",
+        "farancais": "Quoi ?"
+    },
+    {
+        "sonike": "Mannime ?",
+        "farancais": "Combien"
+    },
+    {
+        "sonike": "Mara",
+        "farancais": "Garder, conserver (marana)"
+    },
+    {
+        "sonike": "Mara",
+        "farancais": "Grenier (a,o)"
+    },
+    {
+        "sonike": "Marafa",
+        "farancais": "Fusil (a,nu)"
+    },
+    {
+        "sonike": "Mare",
+        "farancais": "Commander (marene)"
+    },
+    {
+        "sonike": "Masala",
+        "farancais": "Discuter, causer (Masalana)"
+    },
+    {
+        "sonike": "Maxa",
+        "farancais": "Prédicatif de l’impératif négatif"
+    },
+    {
+        "sonike": "Maxafo",
+        "farancais": "Condiment (o,nu)"
+    },
+    {
+        "sonike": "Maxanbaane",
+        "farancais": "Célibataire (n,u)"
+    },
+    {
+        "sonike": "Maxañetu",
+        "farancais": "Parer, orner, décorer (maxañette)"
+    },
+    {
+        "sonike": "Mba",
+        "farancais": "Réponse abrégée des hommes à une salutation"
+    },
+    {
+        "sonike": "Me",
+        "farancais": "L’un l’autre"
+    },
+    {
+        "sonike": "Mene",
+        "farancais": "exclamation : pas mal ! !"
+    },
+    {
+        "sonike": "Menjanne",
+        "farancais": "Ami (n,u)"
+    },
+    {
+        "sonike": "Ni",
+        "farancais": "Prédicatif nominal ou adjectival"
+    },
+    {
+        "sonike": "Nimisi",
+        "farancais": "Regretter (nimisini)"
+    },
+    {
+        "sonike": "No",
+        "farancais": "Là-bas"
+    },
+    {
+        "sonike": "Nooge",
+        "farancais": "Gauche"
+    },
+    {
+        "sonike": "Noqqu",
+        "farancais": "Endroit (u,nu)"
+    },
+    {
+        "sonike": "Noxo",
+        "farancais": "Intérieur, ventre (u,u)"
+    },
+    {
+        "sonike": "Nta",
+        "farancais": "prédicatif nominal locatif négatif"
+    },
+    {
+        "sonike": "Nuxunne",
+        "farancais": "Nez (n,nu)"
+    },
+    {
+        "sonike": "Ña",
+        "farancais": "Faire (ñana)"
+    },
+    {
+        "sonike": "Ña",
+        "farancais": "Devenir (ñana)"
+    },
+    {
+        "sonike": "Ñaaga",
+        "farancais": "Solliciter (ñaagana)"
+    },
+    {
+        "sonike": "Ñaage",
+        "farancais": "Quémander, mendier (ñaagene)"
+    },
+    {
+        "sonike": "Ñaala",
+        "farancais": "Ecrevisse (a,o)"
+    },
+    {
+        "sonike": "Ñaaye",
+        "farancais": "Prince (i,u)"
+    },
+    {
+        "sonike": "Ñaamari",
+        "farancais": "Autoriser (ñaamarini)"
+    },
+    {
+        "sonike": "Ñaaña",
+        "farancais": "Frire (ñaañana)"
+    },
+    {
+        "sonike": "Ñaaxame",
+        "farancais": "Dîner, repas de la nuit (a,o)"
+    },
+    {
+        "sonike": "Ñama",
+        "farancais": "Finir quelque chose (ñamana)"
+    },
+    {
+        "sonike": "Ñame",
+        "farancais": "Se terminer, se finir (ñamene)"
+    },
+    {
+        "sonike": "Ñange",
+        "farancais": "Caméléon (i,u)"
+    },
+    {
+        "sonike": "Ñanto",
+        "farancais": "Scorpion (o,nu)"
+    },
+    {
+        "sonike": "Ñaxa",
+        "farancais": "Fête, noces (a,nu)"
+    },
+    {
+        "sonike": "Ñaxa",
+        "farancais": "Fête, noces (a, nu)"
+    },
+    {
+        "sonike": "Ñaxali",
+        "farancais": "Se réjouir (ñaxalini)"
+    },
+    {
+        "sonike": "Ñaxamala",
+        "farancais": "Artisans, gens des caste (a, nu) de"
+    },
+    {
+        "sonike": "Ñaxami",
+        "farancais": "Changer, échanger (ñaxanmi)"
+    },
+    {
+        "sonike": "Ñaxe",
+        "farancais": "Poisson (a,o)"
+    },
+    {
+        "sonike": "Ñeru",
+        "farancais": "7"
+    },
+    {
+        "sonike": "Ñi",
+        "farancais": "Prédicatif de l’imparfait"
+    },
+    {
+        "sonike": "Ñi",
+        "farancais": "Trouver (ñini)"
+    },
+    {
+        "sonike": "Ñiime",
+        "farancais": "Veine, nerf, racine, (i,u)"
+    },
+    {
+        "sonike": "Ñiine",
+        "farancais": "Souris (i,u)"
+    },
+    {
+        "sonike": "Ñiine",
+        "farancais": "Terre, sol (i,u)"
+    },
+    {
+        "sonike": "Ñogome",
+        "farancais": "Dromadaire (n,o)"
+    },
+    {
+        "sonike": "Ñunqume",
+        "farancais": "Chat sauvage (n, u)"
+    },
+    {
+        "sonike": "Ñuumu",
+        "farancais": "Etre gourmand (ñuumunu)"
+    },
+    {
+        "sonike": "Ñuuñu",
+        "farancais": "Gueule, museau (u, nu)"
+    },
+    {
+        "sonike": "Ñuunuñgille",
+        "farancais": "» Longue gueule « , surnom du crocodile (i,u)"
+    },
+    {
+        "sonike": "Ña",
+        "farancais": "postposition : à, dans , pour,"
+    },
+    {
+        "sonike": "Ñaali",
+        "farancais": "Briller (aalini)"
+    },
+    {
+        "sonike": "Ñaame",
+        "farancais": "Inondation (i,u)"
+    },
+    {
+        "sonike": "Ñaara",
+        "farancais": "Grand griot ( de grande renommée) (a,nu)"
+    },
+    {
+        "sonike": "Ñaralleve",
+        "farancais": "Escarpement le long du lit principal d’un fleuve (i,u)"
+    },
+    {
+        "sonike": "Ñariñanne",
+        "farancais": "Laid (n,u)"
+    },
+    {
+        "sonike": "Ñoomi",
+        "farancais": "Beignet (i,nu)"
+    },
+    {
+        "sonike": "Ñuno",
+        "farancais": "Pantalon (u,nu)"
+    },
+    {
+        "sonike": "O",
+        "farancais": "Nous"
+    },
+    {
+        "sonike": "Orege",
+        "farancais": "Thé (i,)"
+    },
+    {
+        "sonike": "Paaka",
+        "farancais": "Poignard (a,nu)"
+    },
+    {
+        "sonike": "Paasandifo",
+        "farancais": "Fer à repasser (o,nu)"
+    },
+    {
+        "sonike": "Paasi",
+        "farancais": "Prix du transport, du billet (i,nu)"
+    },
+    {
+        "sonike": "Paasoporo",
+        "farancais": "Passeport (o, nu)"
+    },
+    {
+        "sonike": "Ponti",
+        "farancais": "Pointe, clou (i,nu)"
+    },
+    {
+        "sonike": "Poole",
+        "farancais": "Elastique (i,u)"
+    },
+    {
+        "sonike": "Ta",
+        "farancais": "Membre intérieur, jambe + pied (a, taanu)"
+    },
+    {
+        "sonike": "Ta",
+        "farancais": "Une fois (a, taanu)"
+    },
+    {
+        "sonike": "Taafiya",
+        "farancais": "Eventail (a, nu)"
+    },
+    {
+        "sonike": "Taage",
+        "farancais": "Molaire (i,u)"
+    },
+    {
+        "sonike": "Taali",
+        "farancais": "Proverbe (i, nu)"
+    },
+    {
+        "sonike": "Taalibe",
+        "farancais": "Etudiant coranique (i,o)"
+    },
+    {
+        "sonike": "Taane",
+        "farancais": "Enclume (i,u)"
+    },
+    {
+        "sonike": "Taarixu",
+        "farancais": "Chronique historique (u,nu)"
+    },
+    {
+        "sonike": "Taata",
+        "farancais": "Appellation d’un aîné"
+    },
+    {
+        "sonike": "Taaxaade",
+        "farancais": "Siège, chaise, … (i,u)"
+    },
+    {
+        "sonike": "Taaxu",
+        "farancais": "s’installer, s’asseoir (taaxunu)"
+    },
+    {
+        "sonike": "Taballe",
+        "farancais": "Grand tambour de cérémonie (guerres, couronnement, …) (i,u)"
+    },
+    {
+        "sonike": "Taga",
+        "farancais": "Construire (tagana)"
+    },
+    {
+        "sonike": "Tage",
+        "farancais": "Forgeron (a, o)"
+    },
+    {
+        "sonike": "Taagumanse",
+        "farancais": "Indice, signe, trace (i,u)"
+    },
+    {
+        "sonike": "Talaata",
+        "farancais": "Mardi (a,nu)"
+    },
+    {
+        "sonike": "Tamare",
+        "farancais": "Datte (i,u)"
+    },
+    {
+        "sonike": "Tana",
+        "farancais": "Autre (a,nu)"
+    },
+    {
+        "sonike": "Tanbaxodoone",
+        "farancais": "Escargot (n,u)"
+    },
+    {
+        "sonike": "Tanbo",
+        "farancais": "Crédit, emprunt, dette (o, nu)"
+    },
+    {
+        "sonike": "Tanbo",
+        "farancais": "Crédit, emprunt, dette (o, nu)"
+    },
+    {
+        "sonike": "Tangi",
+        "farancais": "Pêcher Tangi (tangini) : Pêcher"
+    },
+    {
+        "sonike": "Tanmu",
+        "farancais": "10"
+    },
+    {
+        "sonike": "Tanpi",
+        "farancais": "Se fatiguer (tanpini)"
+    },
+    {
+        "sonike": "Tanxulle",
+        "farancais": "Hérisson (i,u)"
+    },
+    {
+        "sonike": "Tarallenma",
+        "farancais": "Compagnon (a,o)"
+    },
+    {
+        "sonike": "Tawo",
+        "farancais": "Echauffer (tawono)"
+    },
+    {
+        "sonike": "Tawoyi",
+        "farancais": "Chauffer, avoir la fièvre (tawoyini)"
+    },
+    {
+        "sonike": "Taxa",
+        "farancais": "Couvrir (taxana)"
+    },
+    {
+        "sonike": "Taxaade",
+        "farancais": "Couvercle (i,u)"
+    },
+    {
+        "sonike": "Taxandi",
+        "farancais": "Diviser (taxandini)"
+    },
+    {
+        "sonike": "Taye",
+        "farancais": "Droite"
+    },
+    {
+        "sonike": "Te",
+        "farancais": "Champ (te, tenu)"
+    },
+    {
+        "sonike": "Teleno",
+        "farancais": "Aller tout droit (telenono)"
+    },
+    {
+        "sonike": "Telle",
+        "farancais": "Aller, partir (temps de l’inaccompli seulement)"
+    },
+    {
+        "sonike": "Tenenne",
+        "farancais": "Lundi"
+    },
+    {
+        "sonike": "Tene",
+        "farancais": "Front (i,u)"
+    },
+    {
+        "sonike": "Teppu",
+        "farancais": "Chaussure (u, nu)"
+    },
+    {
+        "sonike": "Tere",
+        "farancais": "Marcher (terene)"
+    },
+    {
+        "sonike": "Terinka",
+        "farancais": "Ecouter (terinkana)"
+    },
+    {
+        "sonike": "Texe",
+        "farancais": "Natte (i,o)"
+    },
+    {
+        "sonike": "Texe",
+        "farancais": "Fermer (ne)"
+    },
+    {
+        "sonike": "Texi",
+        "farancais": "Etre fermé (texini)"
+    },
+    {
+        "sonike": "Texu",
+        "farancais": "Tousser (texunu)"
+    },
+    {
+        "sonike": "Teyinne",
+        "farancais": "Co – épouse"
+    },
+    {
+        "sonike": "Ti",
+        "farancais": "Dire (tini)"
+    },
+    {
+        "sonike": "Ti",
+        "farancais": "Avec (instrument)"
+    },
+    {
+        "sonike": "Tibille",
+        "farancais": "Girafe (i,u)"
+    },
+    {
+        "sonike": "Tifi",
+        "farancais": "Planter, faire des plantations (tifini)"
+    },
+    {
+        "sonike": "Tifi",
+        "farancais": "Planter quelque chose (transitif) (tippi)"
+    },
+    {
+        "sonike": "Tiide",
+        "farancais": "Fumée, vapeur (i,u)"
+    },
+    {
+        "sonike": "Timi",
+        "farancais": "Sentir (timini)"
+    },
+    {
+        "sonike": "Timi",
+        "farancais": "Jouer un instrument de music (tinmi)"
+    },
+    {
+        "sonike": "Tinne",
+        "farancais": "Derrière d’un animal, d’une personne, tronc d’arbre (n,u)"
+    },
+    {
+        "sonike": "Tinte",
+        "farancais": "(a, o)"
+    },
+    {
+        "sonike": "Tirindi",
+        "farancais": "Demander (tirindini)"
+    },
+    {
+        "sonike": "Tiye",
+        "farancais": "Viande (i,u)"
+    },
+    {
+        "sonike": "Toge",
+        "farancais": "Cuisse (i,u)"
+    },
+    {
+        "sonike": "Tonge",
+        "farancais": "Houe (i,u)"
+    },
+    {
+        "sonike": "Toni",
+        "farancais": "Avaler (tonini)"
+    },
+    {
+        "sonike": "Tonnu",
+        "farancais": "Vérité (u,nu)"
+    },
+    {
+        "sonike": "Tone",
+        "farancais": "Amende (i,u)"
+    },
+    {
+        "sonike": "Toora",
+        "farancais": "Peine, gêne (a,o)"
+    },
+    {
+        "sonike": "Toore",
+        "farancais": "Trône, autorité (i,u)"
+    },
+    {
+        "sonike": "Toore",
+        "farancais": "Tresse (i,u)"
+    },
+    {
+        "sonike": "Toori",
+        "farancais": "Introniser (toorini)"
+    },
+    {
+        "sonike": "Tooro",
+        "farancais": "Gêner (toorono)"
+    },
+    {
+        "sonike": "Tooxe",
+        "farancais": "Venin, poisson (i,u)"
+    },
+    {
+        "sonike": "Toro",
+        "farancais": "Oreille (u,u)"
+    },
+    {
+        "sonike": "Toxo",
+        "farancais": "Laisser (toqqo)"
+    },
+    {
+        "sonike": "Toxo",
+        "farancais": "Prénom d’une personne, nom d’une chose, d’un animal (o ,nu)"
+    },
+    {
+        "sonike": "Tu",
+        "farancais": "Savoir , connaître (tu)"
+    },
+    {
+        "sonike": "Tubaabu",
+        "farancais": "Européen, Blanc (u,nu)"
+    },
+    {
+        "sonike": "Tuga",
+        "farancais": "Payer (tugana)"
+    },
+    {
+        "sonike": "Tugume",
+        "farancais": "Cadet (a,u)"
+    },
+    {
+        "sonike": "Tuhuumar",
+        "farancais": "Se reposer (tuhuumana)"
+    },
+    {
+        "sonike": "Tulle",
+        "farancais": "Abeille (i,u)"
+    },
+    {
+        "sonike": "Tumu",
+        "farancais": "6"
+    },
+    {
+        "sonike": "Tumuja",
+        "farancais": "Gibier (a,o)"
+    },
+    {
+        "sonike": "Tunka",
+        "farancais": "Roi (a,nu)"
+    },
+    {
+        "sonike": "Tunsi",
+        "farancais": "Accompagner (tunsini)"
+    },
+    {
+        "sonike": "Tuntu",
+        "farancais": "Soufflet de forge (u, nu)"
+    },
+    {
+        "sonike": "Turo",
+        "farancais": "Figuier (u,u)"
+    },
+    {
+        "sonike": "Tuune",
+        "farancais": "Chacal (i,u)"
+    },
+    {
+        "sonike": "Tuure",
+        "farancais": "Eléphant (i,u)"
+    },
+    {
+        "sonike": "Tuuri",
+        "farancais": "S’affoler, devenir fou, étourdi (tuurini)"
+    },
+    {
+        "sonike": "Tuurinte",
+        "farancais": "Etourdi, fou (a, o)"
+    },
+    {
+        "sonike": "Tuwaaxu",
+        "farancais": "Connaissance, savoir (u, nu)"
+    },
+    {
+        "sonike": "Unhun",
+        "farancais": "Murmure d’approbation dans une réunion"
+    },
+    {
+        "sonike": "Wa",
+        "farancais": "Prédicatif du présent"
+    },
+    {
+        "sonike": "Waaga",
+        "farancais": "L’année prochaine"
+    },
+    {
+        "sonike": "Waare",
+        "farancais": "Béer (waarene)"
+    },
+    {
+        "sonike": "Waari",
+        "farancais": "Voyager en parlant d’un marabout (terme de respect) (waarini)"
+    },
+    {
+        "sonike": "Wacca",
+        "farancais": "Tout de suite"
+    },
+    {
+        "sonike": "Walaade",
+        "farancais": "Navette du tisserand (i,u)"
+    },
+    {
+        "sonike": "Walaha",
+        "farancais": "Tablette d’élève d’écoles coranique (a, nu)"
+    },
+    {
+        "sonike": "Wallahi",
+        "farancais": "Au nom d e Dieu"
+    },
+    {
+        "sonike": "Wandalle",
+        "farancais": "Canard (i,u)"
+    },
+    {
+        "sonike": "Wanqi",
+        "farancais": "Laver (wanqini)"
+    },
+    {
+        "sonike": "Wara",
+        "farancais": "Laisser (walla)"
+    },
+    {
+        "sonike": "Wari",
+        "farancais": "Voir (walla)"
+    },
+    {
+        "sonike": "Warijaxe",
+        "farancais": "Chance (a,o)"
+    },
+    {
+        "sonike": "Watte",
+        "farancais": "Maladie (i,u)"
+    },
+    {
+        "sonike": "Waxande",
+        "farancais": "Caisse, cantine (i,u)"
+    },
+    {
+        "sonike": "Waxante",
+        "farancais": "Fou (a,o)"
+    },
+    {
+        "sonike": "Waxari",
+        "farancais": "Faire la toilette funèbre (waxalli)"
+    },
+    {
+        "sonike": "Waxati",
+        "farancais": "Moment, instant (i, nu)"
+    },
+    {
+        "sonike": "Waxe",
+        "farancais": "Folie (a,o)"
+    },
+    {
+        "sonike": "Waxe",
+        "farancais": "S’affoler, devenir fou (waxene) fou"
+    },
+    {
+        "sonike": "Wecci",
+        "farancais": "Changer, échanger (monnaies par ex.) (weccini)"
+    },
+    {
+        "sonike": "Weere",
+        "farancais": "Verre (i,u)"
+    },
+    {
+        "sonike": "Welo",
+        "farancais": "Bicyclette (o ,nu)"
+    },
+    {
+        "sonike": "Woyi",
+        "farancais": "Vanner (avec un van) (woyini)"
+    },
+    {
+        "sonike": "Woto",
+        "farancais": "Automobile (o,nu)"
+    },
+    {
+        "sonike": "Wu",
+        "farancais": "Pleurer (wunu)"
+    },
+    {
+        "sonike": "Wujjuune",
+        "farancais": "Millier (i,u)"
+    },
+    {
+        "sonike": "Wulle",
+        "farancais": "Chien (i,u)"
+    },
+    {
+        "sonike": "Wulluha",
+        "farancais": "Prière facultative de 9 heures du matin, cette heure (a,nu)"
+    },
+    {
+        "sonike": "Wuno",
+        "farancais": "Pantalon (u, wunonu)"
+    },
+    {
+        "sonike": "Wuñi",
+        "farancais": "Ouvrir (wuñini)"
+    },
+    {
+        "sonike": "Wuro",
+        "farancais": "Nuit (o,u)"
+    },
+    {
+        "sonike": "Wuru",
+        "farancais": "Courir (wurunu)"
+    },
+    {
+        "sonike": "Wurugi",
+        "farancais": "Faire rayonner, resplendir (wurugini)"
+    },
+    {
+        "sonike": "Wutu",
+        "farancais": "Prendre (wuttu)"
+    },
+    {
+        "sonike": "Wuyi",
+        "farancais": "Passer la nuit (wuyini)"
+    },
+    {
+        "sonike": "Wuyi",
+        "farancais": "Longue vie (i, )"
+    }
+]
