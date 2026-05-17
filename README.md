@@ -48,8 +48,7 @@ cleaning, and publishing NLP datasets so that anyone can build tools that serve 
 | File | Description | Size |
 |---|---|---|
 | `datasets/soninke/soninke_french_dictionary.json` | Soninke ↔ French bilingual dictionary | 708 entries |
-| `datasets/soninke/soninke_field_collection_session_1.pdf` | Field transcription sheets — session 1 | PDF |
-| `datasets/soninke/soninke_field_collection_session_2.pdf` | Field transcription sheets — session 2 | PDF |
+
 
 **Schema** (`soninke_french_dictionary.json`):
 ```json
