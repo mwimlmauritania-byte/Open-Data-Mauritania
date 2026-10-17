@@ -82,3 +82,19 @@ Data cards follow the model proposed by Bender & Friedman (2018).
 | License | CC BY 4.0 |
 | Curator | MWiML |
 | Status | Needs digitisation into JSON |
+
+---
+
+## MauriCorpus (`multilingual/mauricorpus/`)
+
+Full documentation: [MauriCorpus README](../datasets/multilingual/mauricorpus/README.md)
+
+| Field | Value |
+|---|---|
+| Languages | Modern Standard Arabic ↔ Hassaniya, Pulaar, Wolof, Soninke |
+| Domain | Hassaniya: everyday conversation · Pulaar/Wolof: culture and history articles · Soninke: vocabulary, sentences, folk tales |
+| Size | 4 × 2,000 pairs (8,000 total) |
+| Collection method | Hassaniya: human translation. Pulaar: machine translation (Google Cloud Translation, `ff`). Wolof: machine translation (NLLB-200). Soninke: Soninke–French from published sources, Arabic machine-translated from French |
+| License | **CC BY-NC-SA 4.0**; third-party source text keeps its original terms |
+| Curator | Rahma Boughale, Mamadou Abdoulaye Aw, Oiga Maimouna, Ahmed Ba |
+| Notes | Pulaar and Wolof targets are silver data, not suitable as gold test references. Kept as used in the Deep Learning Indaba 2026 baselines; contains 28 duplicate pairs |

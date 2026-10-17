@@ -88,6 +88,23 @@ cleaning, and publishing NLP datasets so that anyone can build tools that serve 
 { "arabic": "...", "hassanya": "...", "pulaar": "..." }
 ```
 
+#### MauriCorpus — Arabic ↔ Hassaniya / Pulaar / Wolof / Soninke
+
+| File | Description | Size |
+|---|---|---|
+| `datasets/multilingual/mauricorpus/arabic_hassaniya.json` | Arabic ↔ Hassaniya (+ French, English), human translation | 2,000 pairs |
+| `datasets/multilingual/mauricorpus/arabic_pulaar.json` | Arabic ↔ Pulaar, Pulaar side machine-translated | 2,000 pairs |
+| `datasets/multilingual/mauricorpus/arabic_wolof.json` | Arabic ↔ Wolof, Wolof side machine-translated | 2,000 pairs |
+| `datasets/multilingual/mauricorpus/arabic_soninke.json` | Arabic ↔ Soninke (+ French), Arabic side machine-translated | 2,000 pairs |
+
+Presented at Deep Learning Indaba 2026. Licensed **CC BY-NC-SA 4.0**, not CC BY 4.0. See the
+[MauriCorpus README](datasets/multilingual/mauricorpus/README.md) for provenance, schemas and baseline results.
+
+**Schema** (`arabic_hassaniya.json`):
+```json
+{ "id": 1, "arabic": "...", "hassaniya": "...", "french": "...", "english": "..." }
+```
+
 ---
 
 ## 🔗 External Sources & Related Projects
@@ -173,7 +190,14 @@ Open-Data-Mauritania/
 │   ├── wolof/
 │   │   └── .gitkeep
 │   └── multilingual/
-│       └── arabic_hassaniya_pulaar_trilingual.json
+│       ├── arabic_hassaniya_pulaar_trilingual.json
+│       └── mauricorpus/
+│           ├── README.md
+│           ├── LICENSE
+│           ├── arabic_hassaniya.json
+│           ├── arabic_pulaar.json
+│           ├── arabic_wolof.json
+│           └── arabic_soninke.json
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
 │   └── 02_baseline_tokenizer.ipynb
